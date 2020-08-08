@@ -1,0 +1,39 @@
+.card1{
+    margin-top: 50px;
+    margin-bottom: 10px;
+    font-family: sans-serif;
+    font-size: 15px;
+    color: white;
+    height: 300px;
+    width: 250px;
+    transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
+}
+.title1{
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+.card:hover{ 
+ transform: scale(1.05);
+ box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+.publish1{
+    text-align: center;
+    font-size: 17px;
+    font-weight: bold;
+}
+.inst{
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text1{
+    text-align: center;
+    font-size: 15px;
+    padding-top: 40px;
+}
+.para{
+    margin-bottom: 0px;
+    font-weight: bold;
+    font-size: 18px ;
+}
