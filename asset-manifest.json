@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AI-NewsApplication/static/css/main.ba57505a.chunk.css",
+    "main.js": "/AI-NewsApplication/static/js/main.ada0a72a.chunk.js",
+    "main.js.map": "/AI-NewsApplication/static/js/main.ada0a72a.chunk.js.map",
+    "runtime-main.js": "/AI-NewsApplication/static/js/runtime-main.63b9ec11.js",
+    "runtime-main.js.map": "/AI-NewsApplication/static/js/runtime-main.63b9ec11.js.map",
+    "static/js/2.d174d206.chunk.js": "/AI-NewsApplication/static/js/2.d174d206.chunk.js",
+    "static/js/2.d174d206.chunk.js.map": "/AI-NewsApplication/static/js/2.d174d206.chunk.js.map",
+    "index.html": "/AI-NewsApplication/index.html",
+    "precache-manifest.418f92f36e9e7509af90ef98802efaa3.js": "/AI-NewsApplication/precache-manifest.418f92f36e9e7509af90ef98802efaa3.js",
+    "service-worker.js": "/AI-NewsApplication/service-worker.js",
+    "static/css/main.ba57505a.chunk.css.map": "/AI-NewsApplication/static/css/main.ba57505a.chunk.css.map",
+    "static/js/2.d174d206.chunk.js.LICENSE.txt": "/AI-NewsApplication/static/js/2.d174d206.chunk.js.LICENSE.txt",
+    "static/media/newsimg.jpg": "/AI-NewsApplication/static/media/newsimg.043b2689.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63b9ec11.js",
+    "static/js/2.d174d206.chunk.js",
+    "static/css/main.ba57505a.chunk.css",
+    "static/js/main.ada0a72a.chunk.js"
+  ]
+}
